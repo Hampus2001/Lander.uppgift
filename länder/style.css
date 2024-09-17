@@ -1,0 +1,67 @@
+.heading {
+  font-size: 80px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background-color: lightcyan;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  margin: 0 0 0 0;
+}
+
+.menu {
+  display: flex;
+  align-items: flex-start;
+  padding-left: 10%;
+  flex-direction: column;
+  float: left;
+  font-size: 40px;
+  text-align: center;
+  justify-content: center;
+  background-color: lightskyblue;
+  margin: 0 0 0 0;
+  width: 20%;
+  height: 600px;
+}
+
+.sverige {
+  float: left;
+  font-size: 70px;
+  text-align: center;
+  background-color: lightblue;
+  width: 70%;
+  height: 200px;
+  margin: 0 0 0 0;
+}
+
+.info {
+  float: left;
+  text-align: center;
+  font-size: 40px;
+  width: 70%;
+  height: 100px;
+  background-color: lightblue;
+}
+.flagga {
+  position: relative;
+  left: 450px;
+  top: 30px;
+
+  height: 200px;
+  background-color: lightblue;
+}
+
+.footer {
+  display: flex;
+  clear: both;
+  text-align: center;
+  justify-content: center;
+  font-size: 80px;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: lightcyan;
+}
+
+body {
+  background-color: lightblue;
+}
